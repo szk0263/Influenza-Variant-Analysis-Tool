@@ -996,3 +996,15 @@ Relevant concepts include:
 * SnpEff functional annotation
 * viral/non-diploid allele-frequency analysis
 * segmented Influenza A genome analysis
+
+---
+## Citation
+
+If you use this workflow, please cite:
+
+**Kazemian, S.** *Illumina Influenza A Variant Calling and Annotation Workflow*. Zenodo.  
+[https://doi.org/10.5281/zenodo.22836770](https://doi.org/10.5281/zenodo.22836770)
+
+## DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22836770.svg)](https://doi.org/10.5281/zenodo.22836770)
