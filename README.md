@@ -1,4 +1,3 @@
-````markdown
 # Influenza Variant Analysis
 
 ## A Practical Guide from Raw Illumina Reads to Interpreted Viral Variants
@@ -1969,5 +1968,3 @@ They should be chosen based on:
 * Experimental design
 * Biological question
 * Desired sensitivity for minority variants
-
-```
